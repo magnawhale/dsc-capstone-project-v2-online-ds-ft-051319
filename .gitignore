@@ -1,3 +1,5 @@
 .DS_store
 .ipynb_checkpoints
 Capstone_local.ipynb
+./data
+./data/originalset/
