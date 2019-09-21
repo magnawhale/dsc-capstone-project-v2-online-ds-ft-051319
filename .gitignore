@@ -2,4 +2,5 @@
 .ipynb_checkpoints
 Capstone_local.ipynb
 ./data
-./data/originalset/
+./data/*
+./data/originalset/*
